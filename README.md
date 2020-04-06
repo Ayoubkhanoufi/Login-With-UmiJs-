@@ -8,8 +8,16 @@ Install dependencies,
 $ yarn
 ```
 
-Start the dev server,
+Start the Umi app,
 
 ```bash
 $ yarn start
+```
+
+
+Start the nodeJs Server(backend)
+
+```bash
+$ npm run server
+
 ```
